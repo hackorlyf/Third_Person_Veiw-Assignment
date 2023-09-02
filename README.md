@@ -9,6 +9,13 @@ Hold  C : Crouching
 ## State Machince
 ![State Machine](https://raw.githubusercontent.com/hackorlyf/Third_Person_Veiw-Assignment/main/SS_TPV/StateMachine.png)
 
+## Screenshots
+![Burpee](https://raw.githubusercontent.com/hackorlyf/Third_Person_Veiw-Assignment/main/SS_TPV/Burpee.png)
+![Crouching_Getting_up]([https://raw.githubusercontent.com/hackorlyf/Third_Person_Veiw-Assignment/main/SS_TPV/Burpee.png](https://raw.githubusercontent.com/hackorlyf/Third_Person_Veiw-Assignment/main/SS_TPV/Crouching_GettingUp.png))
+![Crouching](https://raw.githubusercontent.com/hackorlyf/Third_Person_Veiw-Assignment/main/SS_TPV/Crouching.png)
+![Walking](https://raw.githubusercontent.com/hackorlyf/Third_Person_Veiw-Assignment/main/SS_TPV/Walking.png)
+![Walking_Backside_Veiw](https://raw.githubusercontent.com/hackorlyf/Third_Person_Veiw-Assignment/main/SS_TPV/Walking_backVeiw.png)
+
 ## Explaining my design choices and implementation details
 1} Download 3D models from https://www.mixamo.com/ . This included Swat, StandingIdle, Crouching, Burpee and Walking.
 
