@@ -7,7 +7,7 @@ Hold  W : Walking
 Hold  C : Crouching
 
 ## State Machince
-![] ()
+![State Machine] (https://raw.githubusercontent.com/hackorlyf/Third_Person_Veiw-Assignment/main/SS_TPV/StateMachine.png)
 
 ## Explaining my design choices and implementation details
 1} Download 3D models from https://www.mixamo.com/ . This included Swat, StandingIdle, Crouching, Burpee and Walking.
