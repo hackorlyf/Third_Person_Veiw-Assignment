@@ -1,5 +1,5 @@
 # Third_Person_Veiw-Assignment
-This is my submission of tasks given to me for an internship at Jayam Patel
+This is my submission of tasks given to me for an internship at Persist Ventures.
 
 # Controls
 Press B : Burpee (has delay of 5 seconds and press B again to stop doing Burpees)
